@@ -7,4 +7,11 @@ This project implements the classic Hangman game in Python. The game randomly se
 attempts to guess it by suggesting letters. With each incorrect guess, a part of the hangman is drawan.
 The player wins by guessing all the hidden word before the hangman is complete or loses if the hangman is fully drawn.
 
-## 
+## Flow_chart
+![Hangman Game Flowchart](https://github.com/Sudeeshg300398/Python_Programming/blob/main/project_hangman/flow_chart_hg_practice.png)
+
+## Features
+- Randomly select a  word from predefined list.
+- Provides a user-friendly interface for inputting your guess.
+- Visual representation of the hangman as incorrect guesses are made
+- End-of-game message indicating whether the player won or lost.
